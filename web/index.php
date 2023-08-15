@@ -2,7 +2,7 @@
 <?php include(BP.'/inc/templates/head.php'); ?>
 <?php include(BP.'/inc/templates/header.php'); ?>
 
-<h1>432Hz guitar tuner</h1>
+<h1 class="main-title">432Hz guitar tuner</h1>
 
 <div>
     tuning: <input type="number" id="tuning_freq" value="432.0" step="0.1">Hz<br>
