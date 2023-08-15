@@ -1,0 +1,94 @@
+.guitarcontainer {
+    width: 100%;
+    background-color: greenyellow;
+    text-align: center;
+}
+.guitarcontainer .guitarhead {
+    width: 260px;
+    height: 420px;
+    max-width: 50%;
+    display: inline-block;
+    background-color: crimson;
+    vertical-align: top;
+}
+.guitarcontainer .guitarhead img {
+    width: 100%;
+    height: 420px;
+}
+.guitarcontainer .strings {
+    width: 260px;
+    height: 420px;
+    max-width: 50%;
+    display: inline-block;
+    background-color: darkblue;
+    vertical-align: top;
+}
+.guitarstring1 {
+    top: 147px;
+    background-color: ivory;
+}
+.guitarstring2 {
+    top: 153px;
+    background-color: darkgoldenrod;
+}
+.guitarstring3 {
+    top: 161px;
+    background-color: darkred;
+}
+.guitarstring4 {
+    top: 170px;
+    background-color: coral;
+}
+.guitarstring5 {
+    top: 177px;
+    background-color: darkviolet;
+}
+.guitarstring6 {
+    top: 185px;
+    background-color: burlywood;
+}
+.string {
+    cursor: pointer;
+    display: inline-block;
+    width: 100%;
+    height: 20px;
+    z-index: 1;
+    position: relative;
+}
+.string hr {
+    height: 1px;
+    z-index: 2;
+    position: relative;
+}
+.string .playicon {
+    color: white;
+    z-index: 3;
+    position: absolute;
+    top: 1px;
+    background: black;
+    padding: 2px;
+    left: 10px;
+}
+.string:hover .playicon {
+    color: black;
+    background: white;
+}
+.string .hertz {
+    color: black;
+    z-index: 3;
+    position: absolute;
+    top: 1px;
+    right: 10px;
+    background-color: forestgreen;
+}
+.stop {
+    top: 185px;
+    position: relative;
+    cursor: pointer;
+    padding: 4px;
+    color: white;
+    background: black;
+    margin: 4px;
+    display: inline-block;
+    width: 120px;
+}
