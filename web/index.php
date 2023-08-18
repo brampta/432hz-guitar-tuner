@@ -24,7 +24,11 @@
 </div>
 
 <div class="historycontainer">
-    <h2>Why tune in 432Hz?</h2>
+    <h2>Why a 432Hz tuner?</h2>
+    <p>Most tuners, physical and virtual, do not offer the possibility of tuning your instruments in 432Hz. They are 440Hz only! Some high end guitar tuners can do this but they are very expensive!</p>
+    <p>I did some research and was suprised to find little to no websites offering "online 432Hz guitar tuners". The only one I could find, was a 1 button app that generated simply a 432Hz tone.</p>
+    <p>So I thought, how hard would it be to instead make at least a tone for each string of the guitar to make it easier to actually tune your guitar in 432Hz? I had to create it! And I made this page!</p>
+    <h2>Some history about 432Hz v.s. 440Hz? Why would you want to tune your music in 432Hz?</h2>
     <p>If musical performances were to sound the same the world over, some standardization was required. As early as 1885, the Music Commission of the Italian Government declared that all instruments and orchestras should use a tuning fork that vibrated at 440 Hz, which was different from the original standard of 435 Hz and the competing 432 Hz used in France.</p>
     <p>In 1917, the American Federation of Musicians endorsed the Italians, followed by a further push for 440 Hz in the 1940s.</p>
     <p>In 1953, a worldwide agreement was signed. Signatories declared that middle “A” on the piano be forevermore tuned to exactly 440 Hz. This frequency became the standard ISO-16 reference for tuning all musical instruments based on the chromatic scale, the one most often used for music in the West. All the other notes are tuned in standard mathematical ratios leading to and from 440 Hz.</p>
