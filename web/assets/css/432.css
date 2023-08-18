@@ -99,3 +99,19 @@
 .footer-links {
     text-align: center;
 }
+
+.historycontainer {
+    margin: auto;
+    width: 800px;
+    max-width: 100%;
+    margin-bottom: 60px;
+    padding: 10px;
+}
+.historycontainer img {
+    padding: 10px;
+}
+.footer {
+    width: 100%;
+    background-color: cornflowerblue;
+    text-align: center;
+}
